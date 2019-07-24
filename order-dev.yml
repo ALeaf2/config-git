@@ -13,4 +13,4 @@ girl:
   age: 18
 
 env:
-  dev
+  dev-git
