@@ -9,7 +9,7 @@ spring:
   jpa:
     show-sql: true
 girl:
-  name: lili
+  name: lilei
   age: 22
 
 env:
