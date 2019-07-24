@@ -10,7 +10,7 @@ spring:
     show-sql: true
 girl:
   name: lili
-  age: 29
+  age: 24
 
 env:
   dev-git
