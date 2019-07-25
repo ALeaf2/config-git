@@ -9,8 +9,8 @@ spring:
   jpa:
     show-sql: true
 girl:
-  name: lilei
-  age: 298
+  name: goutao
+  age: 233
 
 env:
   dev-git
