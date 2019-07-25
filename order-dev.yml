@@ -9,8 +9,8 @@ spring:
   jpa:
     show-sql: true
 girl:
-  name: my name is goutao
-  age: 30
+  name: lili 
+  age: 88
 
 env:
   dev-git-0725
