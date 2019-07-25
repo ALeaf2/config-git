@@ -9,7 +9,7 @@ spring:
   jpa:
     show-sql: true
 girl:
-  name: goutaotao
+  name: my name is goutao
   age: 30
 
 env:
