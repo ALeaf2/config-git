@@ -10,7 +10,7 @@ spring:
     show-sql: true
 girl:
   name: goutaotao
-  age: 333
+  age: 30
 
 env:
   dev-git-0725
